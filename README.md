@@ -1,6 +1,6 @@
 [![Markhead](https://i.postimg.cc/cHMZWsGN/ezgif-com-gif-maker.gif)](https://postimg.cc/gXJ1qb0M)
 <h1 align="center">Hi 👋, I'm Sooraj hoysal</h1>
-<h3 align="center">A passionate WEB3 developer from India</h3>
+<h3 align="center">A passionate WEB3,React developer from India</h3>
 
 
 
