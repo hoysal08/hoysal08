@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sooraj hoysal</h1>
 <h3 align="center">A passionate WEB3 developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoysal08" alt="hoysal08" /></a> </p>
 
-- 💬 Ask me about **react,javascript and solidity**
+
+- 💬 Ask me about **react, javascript and solidity**
 
 - 📫 How to reach me **surajhoysal817@gmail.com**
 
