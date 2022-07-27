@@ -4,7 +4,7 @@
 <h3 align="center">A passionate WEB3,React developer from India</h3>
 
 - 💬 Ask me about **react, javascript and solidity** 
--  📫 How to reach me**surajhoysal817@gmail.com**
+- 📫 How to reach me: **surajhoysal817@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
