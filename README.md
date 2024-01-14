@@ -1,9 +1,9 @@
 ![Markhead](https://i.postimg.cc/cHMZWsGN/ezgif-com-gif-maker.gif)
 
 <h1 align="center">Hi 👋, I'm Sooraj hoysal</h1>
-<h3 align="center">A passionate WEB3,React developer from India</h3>
+<h3 align="center">fullstack developer + Web3</h3>
 
-- 💬 Ask me about **react, javascript and solidity** 
+
 - 📫 How to reach me: **surajhoysal817@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
